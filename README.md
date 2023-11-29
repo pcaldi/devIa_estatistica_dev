@@ -25,18 +25,18 @@ Neste módulo de Estatística Descritiva para Devs, focaremos na construção de
 
 ## Como clonar o projeto?
 
-1. Certifique-se de que está usando o `pyenv` e o `pipenv` para gerenciar as dependências do projeto. Veja como instalar e configurar clicando nos respectivos links do tópico [Gerenciadores de Ambiente Virtual](#gerenciadores-de-ambiente-virtual).
+1. Certifique-se de que está usando o `pyenv` e o `pipenv` para gerenciar as dependências do projeto. 
 
 2. Faça o clone pelo Github:
 
     ```bash
-    git clone https://github.com/mgckaled/ignite-devia-introduction.git
+    git clone https://github.com/pcaldi/devIa_estatistica_dev.git
     ```
 
 3. Acesse o diretório:
 
     ```bash
-    cd ignite-devia-introduction
+    cd devIa_estatistica_dev
     ```
 
 4. Instale as dependências e ative o ambiente virtual
